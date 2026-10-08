@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/jvergara054/attik-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 0.6.0</title>
+      <pubDate>Thu, 08 Oct 2026 21:04:11 GMT</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>New in the notch:</b> when it opens, a top row shows a greeting, the weather and <b>Play</b>.</p><ul><li><b>Weather:</b> pick your city in Settings → Notch (°F or °C). It refreshes every 30 minutes.</li><li><b>Play:</b> full-screen Pong against the computer, with the ATTIK logo as the ball. Move your pointer to steer; first to 5 wins. ✕ or Esc quits.</li><li>These appear when ATTIK is in Notch placement (Settings → Bar → Placement).</li></ul>]]></description>
+      <enclosure url="https://github.com/jvergara054/attik-releases/releases/download/v0.6.0/ATTIK-0.6.0.zip" sparkle:edSignature="GQnT2Hn4XaFdW2jOUrKJ9hA1FD9x5P+pSMNQinRGNwOKlBrLz5WgbfBmSQ012xd/V88BhLz83Ac6KeOpmog4DA==" length="6285062" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.5.1</title>
       <pubDate>Thu, 08 Oct 2026 17:51:26 GMT</pubDate>
       <sparkle:version>17</sparkle:version>

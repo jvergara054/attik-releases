@@ -4,5 +4,14 @@
     <title>ATTIK</title>
     <link>https://raw.githubusercontent.com/jvergara054/attik-releases/main/appcast.xml</link>
     <language>en</language>
+    <item>
+      <title>Version 0.5.0</title>
+      <pubDate>Thu, 08 Oct 2026 17:34:54 GMT</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>ATTIK now updates itself.</b> It checks for new versions once a day; you can also use <b>Check for Updates…</b> in the menu bar menu or Settings → Updates.</p><ul><li>Install this version once by hand; later versions arrive as updates.</li><li>Signed and notarized: unzip, move ATTIK.app to Applications and open it.</li><li>Coming from 0.3.x or earlier: in System Settings → Privacy &amp; Security → Accessibility, remove ATTIK and allow it again from ATTIK&#x27;s Settings.</li></ul>]]></description>
+      <enclosure url="https://github.com/jvergara054/attik-releases/releases/download/v0.5.0/ATTIK-0.5.0.zip" sparkle:edSignature="Y5WvQiBsHyge5+mRXYc7rPhYKBvFB3vCGtEBYjPasHoHsz6RlxaU8mWRijb2crrOOkT2oYGmE234QqJWJG9qBA==" length="5946241" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>

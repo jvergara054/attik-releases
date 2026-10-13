@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/jvergara054/attik-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 0.8.1</title>
+      <pubDate>Tue, 13 Oct 2026 23:12:30 GMT</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>Preview your tabs:</b> in a browser&#x27;s tabs card, click a tab and press Space to preview the page, like Quick Look for files.</p><ul><li><b>Preview keys:</b> ↑/↓ move through your tabs with the preview open, Return or <b>Open Tab</b> jumps to the real tab, Space or Esc closes it. Double-click a tab to open it.</li><li><b>Private previews:</b> pages load without your browser&#x27;s sign-ins, and nothing is kept once the preview closes.</li><li><b>Welcome, polished:</b> black Liquid Glass on macOS 26, a back arrow, a step to connect your agents, and it opens centered on your screen.</li></ul>]]></description>
+      <enclosure url="https://github.com/jvergara054/attik-releases/releases/download/v0.8.1/ATTIK-0.8.1.zip" sparkle:edSignature="a4h6Lw7D0BTModcHa2pPTCO89wBYnoekam2lZrZkIc2QzVaeF+YgOHlDAgIwxacIOwC/4yfehcV2U+Vm7er0Ag==" length="7184395" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.8.0</title>
       <pubDate>Tue, 13 Oct 2026 22:44:37 GMT</pubDate>
       <sparkle:version>20</sparkle:version>

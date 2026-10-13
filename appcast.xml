@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/jvergara054/attik-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 0.8.0</title>
+      <pubDate>Tue, 13 Oct 2026 22:44:37 GMT</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>Welcome to ATTIK 0.8:</b> a short welcome walks you through Accessibility, connecting your agents and opening ATTIK at login.</p><ul><li><b>14-day free trial:</b> everything is unlocked for 14 days. After that the bar stays free, and the extras unlock with a one-time $15 license, updates included. Your days left show in ATTIK&#x27;s menus and in Settings.</li><li><b>Pong levels:</b> win a game to move up a level, with yellow squares to play around. The scoreboard is an obstacle too. Click the level on the scoreboard to pick one. The computer starts easier and gets tougher by level 8.</li><li><b>Paste works:</b> ⌘V, ⌘C, ⌘X and ⌘A now work in ATTIK&#x27;s text fields.</li></ul>]]></description>
+      <enclosure url="https://github.com/jvergara054/attik-releases/releases/download/v0.8.0/ATTIK-0.8.0.zip" sparkle:edSignature="/CkcTQCeq2ZK6aPasMaXGlnuB9rL8gtG2i1OD8/tqRkIDu5ngYPf0AFqAsCM6th1SOhLel101aELRnPMpWHLAw==" length="7124780" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.7.0</title>
       <pubDate>Mon, 12 Oct 2026 17:09:42 GMT</pubDate>
       <sparkle:version>19</sparkle:version>

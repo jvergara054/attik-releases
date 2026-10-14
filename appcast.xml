@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/jvergara054/attik-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 0.8.2</title>
+      <pubDate>Wed, 14 Oct 2026 17:57:03 GMT</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>Cards stay open while you work in them.</b></p><ul><li><b>Click anywhere in a card:</b> clicking between files in a folder or the shelf no longer closes it.</li><li><b>Closing a card:</b> its ✕, Esc, its icon again, opening something else from the bar, or a click outside ATTIK. Clicks on the bar, a preview or the card itself keep it open.</li></ul>]]></description>
+      <enclosure url="https://github.com/jvergara054/attik-releases/releases/download/v0.8.2/ATTIK-0.8.2.zip" sparkle:edSignature="Dqayf+LH4kKS+wChOBYkneQWtfVb7LfUuTsz5d65KTaxweG5ipROB/NiFSuCKT6AimX7UecU3ybvjnbwNRcNCA==" length="7183287" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.8.1</title>
       <pubDate>Tue, 13 Oct 2026 23:12:30 GMT</pubDate>
       <sparkle:version>21</sparkle:version>

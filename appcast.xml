@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/jvergara054/attik-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 0.8.3</title>
+      <pubDate>Thu, 15 Oct 2026 15:57:08 GMT</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.8.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>ATTIK is for sale:</b> buy a lifetime license for $15, once, with every update included.</p><ul><li><b>Buy ATTIK:</b> from ATTIK&#x27;s menu, Settings → License, or attikapp.com. Your license key arrives by email; paste it into Settings → License and click Activate.</li><li><b>One Mac per license:</b> to move it, choose Deactivate this Mac in Settings, then activate on the other Mac.</li></ul>]]></description>
+      <enclosure url="https://github.com/jvergara054/attik-releases/releases/download/v0.8.3/ATTIK-0.8.3.zip" sparkle:edSignature="NvrsyNq4pvYai2bAn9k0KuuXi0N3x/3CHfwVn/2LU7IOemRM6RVK526rpTghy1sisjZ7DtI4yfNOGIDMVE58BA==" length="7182921" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.8.2</title>
       <pubDate>Wed, 14 Oct 2026 17:57:03 GMT</pubDate>
       <sparkle:version>22</sparkle:version>

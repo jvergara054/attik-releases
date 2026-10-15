@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/jvergara054/attik-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 0.8.4</title>
+      <pubDate>Thu, 15 Oct 2026 17:10:28 GMT</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.8.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p><b>A proper installer:</b> ATTIK now downloads as a disk image. Open it and drag ATTIK to Applications.</p><ul><li><b>Moving your license:</b> Deactivate this Mac now always frees the license on this Mac, and says so if it can&#x27;t.</li><li><b>License key field:</b> stays in place when you paste a key.</li></ul>]]></description>
+      <enclosure url="https://github.com/jvergara054/attik-releases/releases/download/v0.8.4/ATTIK-0.8.4.zip" sparkle:edSignature="jrhxa9Yza3kef1iZZs5CJjrizbuEVJTxyhHTIsyuslFXJaB9Hb/oPP+xFWuINF1jLVyXejJbR24LQbo/m8HYDA==" length="7189676" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.8.3</title>
       <pubDate>Thu, 15 Oct 2026 15:57:08 GMT</pubDate>
       <sparkle:version>23</sparkle:version>

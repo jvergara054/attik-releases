@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/jvergara054/attik-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 0.8.5</title>
+      <pubDate>Mon, 19 Oct 2026 16:48:03 GMT</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.8.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>ATTIK now checks for updates through attikapp.com.</p><ul><li>Same updates as before, delivered from ATTIK&#x27;s own site.</li><li>No personal data is sent: only the app version.</li></ul>]]></description>
+      <enclosure url="https://github.com/jvergara054/attik-releases/releases/download/v0.8.5/ATTIK-0.8.5.zip" sparkle:edSignature="849tELilmd0Fp7JpBOLZyb8ermi3lRJR5nJw96jI+d6tIUiTZQY5ONDXpj30ZtL5CeeijOFaNx0Hd+8jF36ACQ==" length="7189615" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.8.4</title>
       <pubDate>Thu, 15 Oct 2026 17:10:28 GMT</pubDate>
       <sparkle:version>24</sparkle:version>

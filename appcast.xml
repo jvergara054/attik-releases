@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/jvergara054/attik-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 0.8.6</title>
+      <pubDate>Tue, 20 Oct 2026 21:10:58 GMT</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.8.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>See where the sound is coming from.</p><ul><li><b>Speaker badge:</b> any app in the bar that&#x27;s playing sound gets a small speaker on its icon: Podcasts, Spotify, Chrome, Safari, a Slack call and more.</li><li><b>Playing tab first:</b> in Chrome&#x27;s and Safari&#x27;s tab lists, the tab playing sound is listed at the top with a speaker, so you can jump straight to it to pause or close it.</li><li><b>Progress bar only while playing:</b> the bar under Spotify and Music now hides when they&#x27;re paused.</li></ul>]]></description>
+      <enclosure url="https://github.com/jvergara054/attik-releases/releases/download/v0.8.6/ATTIK-0.8.6.zip" sparkle:edSignature="UA1Tt/nKaDy24MN5+7Pw81LmG7R631zm6rk2rMoI1f64vV9zZR3PSNYY3GmzERMj8BO0WNBGftpoijXgKNGKDg==" length="7230114" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.8.5</title>
       <pubDate>Mon, 19 Oct 2026 16:48:03 GMT</pubDate>
       <sparkle:version>25</sparkle:version>

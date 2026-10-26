@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/jvergara054/attik-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 0.8.7</title>
+      <pubDate>Mon, 26 Oct 2026 17:03:10 GMT</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.8.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The bar stays where you put it.</p><ul><li><b>No more jumping displays:</b> with more than one display (including an iPad over Sidecar), the bar could move to another display by itself when a display connected, woke up or changed. It now always returns to the display you placed it on, or your main display if that one isn&#x27;t connected.</li></ul>]]></description>
+      <enclosure url="https://github.com/jvergara054/attik-releases/releases/download/v0.8.7/ATTIK-0.8.7.zip" sparkle:edSignature="cpvoZFQgqiur4qWmKyv9VrqpvLWK9hMeZRVVtUAZsGeCEuWkhDDYBzZLyjyF2xK0jqpNyOjGD9TX2viChiXDDA==" length="7234670" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.8.6</title>
       <pubDate>Tue, 20 Oct 2026 21:10:58 GMT</pubDate>
       <sparkle:version>26</sparkle:version>
